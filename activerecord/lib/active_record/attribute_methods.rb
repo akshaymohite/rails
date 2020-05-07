@@ -158,7 +158,7 @@ module ActiveRecord
         end
       end
 
-      # Returns true if the given attribute exists, otherwise false.
+      # Returns +true+ if the given attribute exists, otherwise +false+.
       #
       #   class Person < ActiveRecord::Base
       #   end
